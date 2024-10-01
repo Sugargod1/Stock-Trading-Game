@@ -3,7 +3,8 @@ My teammate, Steven Lintelman Nader, and I collaborated closely to implement thi
 
 Steven integrated the Yahoo Finance API to display stock graphs using Turtle on the canvas, and I reviewed his work. 
 
-I was responsible for the entire UI/UX design, the logic behind how users make profits or losses, the calculation of overall profit leading to retirement, and I added pause and resume functionality to make the game more user-friendly. 
+I was responsible for the entire UI/UX design, including the logic behind how users make profits or losses by buying and selling at different timestamps.
+Additionally, I calculated the overall profit leading to retirement and added pause and resume functionality to enhance the user experience. 
 Steven also reviewed my contributions.
 
 ![Screenshot 2024-09-30 220333](https://github.com/user-attachments/assets/1a72b155-2f1c-4e08-81f4-774adb1adfef)
